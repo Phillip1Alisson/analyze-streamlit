@@ -5,11 +5,11 @@ Projeto tem como objetivo analisar um arquivo excel com dados de Telemarketing.
 
 ### Dependencias
 
-* [Requiriments](https://github.com/Phillip1Alisson/analyze-streamlit/blob/main/requirements.txt)
+* [requirements](https://github.com/Phillip1Alisson/analyze-streamlit/blob/main/requirements.txt)
 
 ### Executando o projeto
 
-<p>Passe para a págino o arquivo [bank-additional.csv](https://github.com/Phillip1Alisson/analyze-streamlit/blob/main/bank-additional.csv), ele carregará as informações como: Filtros, tabelas e gráficos, para manipulação.</p>
+<p>Passe para a págino o arquivo <a href="https://github.com/Phillip1Alisson/analyze-streamlit/blob/main/bank-additional.csv">bank-additional</a>, ele carregará as informações como: Filtros, tabelas e gráficos, para manipulação.</p>
 
 ## Autores
 
